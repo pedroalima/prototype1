@@ -28,3 +28,4 @@ C:\Pedro\C# - VS\WebApplicationTest\WebApplicationTest\obj\Debug\net8.0\refint\W
 C:\Pedro\C# - VS\WebApplicationTest\WebApplicationTest\obj\Debug\net8.0\WebApplicationTest.pdb
 C:\Pedro\C# - VS\WebApplicationTest\WebApplicationTest\obj\Debug\net8.0\WebApplicationTest.genruntimeconfig.cache
 C:\Pedro\C# - VS\WebApplicationTest\WebApplicationTest\obj\Debug\net8.0\ref\WebApplicationTest.dll
+C:\Pedro\C# - VS\WebApplicationTest\WebApplicationTest\obj\Debug\net8.0\WebApplicationTest.sourcelink.json

@@ -18,8 +18,12 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Pedro\C# - VS\WebApplicationTest\WebApplicationTest
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Pedro/C\# - VS/WebApplicationTest/WebApplicationTest/Pages/About.cshtml]
-build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXQuY3NodG1s
+[C:/Pedro/C\# - VS/WebApplicationTest/WebApplicationTest/Pages/About/About.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRcQWJvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Pedro/C\# - VS/WebApplicationTest/WebApplicationTest/Pages/About/Hobbies.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQWJvdXRcSG9iYmllcy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Pedro/C\# - VS/WebApplicationTest/WebApplicationTest/Pages/Error.cshtml]
