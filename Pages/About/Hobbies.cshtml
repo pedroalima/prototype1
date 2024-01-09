@@ -5,5 +5,19 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Welcome to hobbies page</h1>
+    <div>
+        <h1 class="display-4">Me chamo @Model.Name tenho @Model.Age e esses são meus hobbies</h1>
+
+        @foreach(var hobby in @Model.HobbiesList)
+        {
+            <p>@hobby</p>
+        }
+    </div>
+    <form method="post">
+        <input type="text" name="Name" placeholder="Digite seu nome" />
+        <input type="number" name="Age" placeholder="Digite sua idade" />
+        <button type="submit">Enviar</button>
+    </form>
 </div>
+
+
